@@ -1,4 +1,4 @@
-PPE Detection System Using Machine Learning 🦺
+#PPE Detection System Using Machine Learning 🦺
 Overview
 
 This project implements a Personal Protective Equipment (PPE) detection system using Machine Learning to improve safety in steel plant operations. It automatically detects whether workers are wearing the required safety gear such as helmets, gloves, masks, and safety vests, helping prevent accidents and ensure compliance with safety standards.
@@ -89,3 +89,4 @@ Developed by Rahul Achary
 Email: your-email@example.com
 
 LinkedIn: linkedin.com/in/rahul-achary
+
